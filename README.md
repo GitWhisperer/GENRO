@@ -39,13 +39,13 @@ We welcome contributions to enhance the capabilities of AI Genro. Feel free to o
 
 - **Enhance User Interface/Experience:** Improve the overall usability and user experience.
 
-- **Contact the Admin:** Users can now contact the admin for more information or feature requests.
+- **Contact the Admin:** Users can now contact [GitWhisperer](https://github.com/GitWhisperer) for more information or feature requests.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Contact @gitwhisperer for more details.
+
 
 
 
