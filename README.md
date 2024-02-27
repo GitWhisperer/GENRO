@@ -14,8 +14,14 @@ AI Genro is an artificial intelligence project that started with the goal of ide
 
 ### Prerequisites
 
-- Python 3.x
-- Dependencies (list any additional libraries or frameworks)
+- Python 3
+- [numpy](https://github.com/numpy/numpy)
+- [librosa](https://github.com/librosa/librosa)
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn)
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+- [spotipy](https://github.com/plamere/spotipy)
+- [sounddevice](https://github.com/spatialaudio/python-sounddevice)
+- [pydub](https://github.com/jiaaro/pydub)
 
 ### Installation
 
