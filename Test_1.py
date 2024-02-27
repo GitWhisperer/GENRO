@@ -11,8 +11,8 @@ import sounddevice as sd
 from pydub import AudioSegment
 
 # Spotify credentials
-SPOTIFY_CID = "a984cdb2665947fb80db79c55478c4d7"  
-SPOTIFY_SECRET = "60c39d06be8e46e3857311f5eaaa56c4"
+SPOTIFY_CID = "__"  
+SPOTIFY_SECRET = "__"
 
 # List of genres
 genres = ['pop', 'rock', 'blues', 'jazz', 'country', 'heavy_metal', 'electronic', 'folk']
